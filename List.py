@@ -1,5 +1,7 @@
 #  Write a program to demonstrate list in python and list comparision
 
+# This Program is made by Prakhar Jain
+
 # empty list
 my_list = []
 
